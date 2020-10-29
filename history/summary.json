@@ -3,16 +3,16 @@
     "name": "ffxiv-data 1",
     "url": "$FFXIV_DATA_1",
     "slug": "ffxiv-data-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 299
   },
   {
     "name": "ffxiv-data 2",
     "url": "$FFXIV_DATA_2",
     "slug": "ffxiv-data-2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 201
   }
 ]
