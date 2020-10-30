@@ -1,5 +1,4 @@
-# Upptime
-
+# [📈 Live Status](https://upptime.dlunch.net): <!--live status--> **🟨 Partial outage**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
