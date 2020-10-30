@@ -1,18 +1,18 @@
 [
   {
     "name": "ffxiv-data 1",
-    "url": "$FFXIV_DATA_1",
+    "url": "$SECRET_SITE_1",
     "slug": "ffxiv-data-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 525
+    "time": 450
   },
   {
     "name": "ffxiv-data 2",
-    "url": "$FFXIV_DATA_2",
+    "url": "$SECRET_SITE_2",
     "slug": "ffxiv-data-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 335
+    "time": 287
   }
 ]
