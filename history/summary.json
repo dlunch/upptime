@@ -5,7 +5,7 @@
     "slug": "ffxiv-data-1",
     "status": "up",
     "uptime": "100.00",
-    "time": 505
+    "time": 512
   },
   {
     "name": "ffxiv-data 2",
@@ -13,6 +13,6 @@
     "slug": "ffxiv-data-2",
     "status": "up",
     "uptime": "100.00",
-    "time": 465
+    "time": 461
   }
 ]
