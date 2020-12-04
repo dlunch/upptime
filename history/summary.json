@@ -5,7 +5,15 @@
     "slug": "ffxiv-data-1",
     "status": "up",
     "uptime": "100.00%",
-    "time": 578
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 629,
+    "timeDay": 616,
+    "timeWeek": 653,
+    "timeMonth": 635,
+    "timeYear": 629
   },
   {
     "name": "ffxiv-data 2",
@@ -13,6 +21,14 @@
     "slug": "ffxiv-data-2",
     "status": "up",
     "uptime": "100.00%",
-    "time": 421
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 415,
+    "timeWeek": 406,
+    "timeMonth": 411,
+    "timeYear": 457
   }
 ]
