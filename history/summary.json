@@ -2,6 +2,7 @@
   {
     "name": "ffxiv-data 1",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ffxiv-data-1",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 640,
-    "timeWeek": 659,
+    "timeDay": 626,
+    "timeWeek": 654,
     "timeMonth": 639,
-    "timeYear": 631
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ffxiv-data 2",
     "url": "$SECRET_SITE_2",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ffxiv-data-2",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 402,
-    "timeWeek": 406,
+    "time": 453,
+    "timeDay": 398,
+    "timeWeek": 405,
     "timeMonth": 412,
-    "timeYear": 454
+    "timeYear": 453,
+    "dailyMinutesDown": {}
   }
 ]
