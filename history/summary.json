@@ -22,17 +22,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ffxiv-data-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 398,
-    "timeWeek": 405,
-    "timeMonth": 412,
-    "timeYear": 453,
-    "dailyMinutesDown": {}
+    "time": 448,
+    "timeDay": 289,
+    "timeWeek": 377,
+    "timeMonth": 405,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2020-12-08": 0
+    }
   }
 ]
