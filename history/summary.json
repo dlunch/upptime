@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 3018,
-    "timeWeek": 1445,
-    "timeMonth": 843,
-    "timeYear": 766,
+    "time": 763,
+    "timeDay": 3013,
+    "timeWeek": 1439,
+    "timeMonth": 842,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ffxiv-data-2",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 447,
-    "timeDay": 331,
-    "timeWeek": 381,
-    "timeMonth": 405,
-    "timeYear": 447,
+    "uptime": "98.40%",
+    "uptimeDay": "34.59%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "98.40%",
+    "time": 446,
+    "timeDay": 320,
+    "timeWeek": 377,
+    "timeMonth": 404,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2020-12-08": 18
+      "2020-12-09": 3,
+      "2020-12-08": 939
     }
   }
 ]
