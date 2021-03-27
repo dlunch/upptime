@@ -4,9 +4,9 @@ user-agent: dlunch
 
 # Add your sites here
 sites:
-  - name: ffxiv-data 1
-    url: $SECRET_SITE_1 
-  - name: ffxiv-data 2
+  - name: data
+    url: $SECRET_SITE_1
+  - name: data kr
     url: $SECRET_SITE_2
 
 # Add downtime notifications
