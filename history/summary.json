@@ -4,18 +4,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "data",
-    "status": "up",
-    "uptime": "99.85%",
+    "status": "down",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 685,
     "timeDay": 712,
     "timeWeek": 641,
     "timeMonth": 715,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2021-08-10": 0,
       "2021-07-15": 284
     }
   },
