@@ -29,9 +29,9 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 570,
     "timeYear": 543,
     "dailyMinutesDown": {
+      "2023-06-01": 0,
       "2023-05-14": 7,
       "2022-06-21": 10
     }
