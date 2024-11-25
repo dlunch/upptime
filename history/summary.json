@@ -6,15 +6,15 @@
     "slug": "data",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "73.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.85%",
     "time": 711,
-    "timeDay": 3210,
-    "timeWeek": 1302,
-    "timeMonth": 930,
-    "timeYear": 741,
+    "timeDay": 696,
+    "timeWeek": 1340,
+    "timeMonth": 931,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2024-11-23": 12,
       "2024-11-22": 373,
@@ -38,8 +38,7 @@
       "2024-01-09": 25,
       "2023-12-21": 4,
       "2023-12-11": 5,
-      "2023-12-03": 15,
-      "2023-11-25": 12
+      "2023-12-03": 15
     }
   },
   {
@@ -49,14 +48,14 @@
     "slug": "data-kr",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "73.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.85%",
     "time": 670,
-    "timeDay": 510,
-    "timeWeek": 572,
-    "timeMonth": 587,
+    "timeDay": 552,
+    "timeWeek": 592,
+    "timeMonth": 583,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2024-11-23": 12,
@@ -75,8 +74,7 @@
       "2024-01-09": 24,
       "2023-12-21": 4,
       "2023-12-11": 5,
-      "2023-12-03": 13,
-      "2023-11-25": 12
+      "2023-12-03": 13
     }
   },
   {
@@ -86,15 +84,15 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "73.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.85%",
     "time": 1000,
-    "timeDay": 711,
-    "timeWeek": 863,
+    "timeDay": 892,
+    "timeWeek": 912,
     "timeMonth": 903,
-    "timeYear": 1001,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2024-11-23": 12,
       "2024-11-22": 373,
@@ -119,8 +117,7 @@
       "2023-12-11": 5,
       "2023-12-10": 24,
       "2023-12-09": 2,
-      "2023-12-03": 12,
-      "2023-11-25": 12
+      "2023-12-03": 12
     }
   }
 ]
