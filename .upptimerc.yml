@@ -4,10 +4,6 @@ user-agent: dlunch
 
 # Add your sites here
 sites:
-  - name: data
-    url: $SECRET_SITE_1
-  - name: data kr
-    url: $SECRET_SITE_2
   - name: mastodon
     url: https://mastodon.dlun.ch
 
