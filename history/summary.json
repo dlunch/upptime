@@ -28,5 +28,23 @@
       "2024-05-08": 9,
       "2024-04-28": 29
     }
+  },
+  {
+    "name": "ffxiv-data",
+    "url": "https://ffxiv-data.dlunch.net/parsed/ex/kor_700/classjob",
+    "icon": "https://icons.duckduckgo.com/ip3/ffxiv-data.dlunch.net.ico",
+    "slug": "ffxiv-data",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 793,
+    "timeDay": 793,
+    "timeWeek": 793,
+    "timeMonth": 793,
+    "timeYear": 793,
+    "dailyMinutesDown": {}
   }
 ]
