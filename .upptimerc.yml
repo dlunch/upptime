@@ -6,6 +6,8 @@ user-agent: dlunch
 sites:
   - name: mastodon
     url: https://mastodon.dlun.ch
+  - name: ffxiv-data
+    url: https://ffxiv-data.dlunch.net/parsed/ex/kor_700/classjob
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
