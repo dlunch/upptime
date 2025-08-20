@@ -1,7 +1,7 @@
 url: https://mastodon.dlun.ch
-status: up
-code: 200
-responseTime: 855
-lastUpdated: 2025-08-19T23:04:33.427Z
+status: down
+code: 503
+responseTime: 806
+lastUpdated: 2025-08-20T06:04:39.963Z
 startTime: 2023-10-05T13:05:16.609Z
 generator: Upptime <https://github.com/upptime/upptime>
