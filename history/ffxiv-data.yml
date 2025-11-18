@@ -1,7 +1,7 @@
 url: https://ffxiv-data.dlunch.net/parsed/ex/kor_700/classjob
-status: down
-code: 500
-responseTime: 137
-lastUpdated: 2025-11-18T12:27:41.263Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2025-11-18T14:37:07.356Z
 startTime: 2025-04-26T04:30:19.824Z
 generator: Upptime <https://github.com/upptime/upptime>
