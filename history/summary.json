@@ -4,17 +4,17 @@
     "url": "https://mastodon.dlun.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.dlun.ch.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.96%",
-    "time": 1327,
-    "timeDay": 1019,
-    "timeWeek": 1112,
-    "timeMonth": 1181,
-    "timeYear": 1312,
+    "time": 1365,
+    "timeDay": 10392,
+    "timeWeek": 3443,
+    "timeMonth": 1762,
+    "timeYear": 1358,
     "dailyMinutesDown": {
       "2025-10-02": 12,
       "2025-11-18": 157,
@@ -36,7 +36,8 @@
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1032,
-      "2026-07-25": 146
+      "2026-07-25": 146,
+      "2026-09-18": 0
     }
   },
   {
